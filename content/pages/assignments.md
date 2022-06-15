@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on assignments for the course, including
+  questions on weekly readings, a written assignment, and an oral presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
