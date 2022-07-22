@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the readings assigned for each week
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 25f07bea-afc5-1f80-71b1-e8eceb705ac0
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction and course overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#During_our_first_meeting)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#During_our_first_meeting" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction and course overview
 
 X chromosome genetics: Flies were first on the scene
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_the_earliest_years)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#In_the_earliest_years" %}}
 
 
 {{< tdclose >}}
@@ -56,11 +61,11 @@ X chromosome genetics: Flies were first on the scene
 
 ### Paper 1
 
-Morgan, T. H. "Sex Limited Inheritance in _Drosophila_." _Science_ 32 (1910): 120-122. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.esp.org/foundations/genetics/classical/thm-10a.pdf))
+Morgan, T. H. "Sex Limited Inheritance in _Drosophila_." _Science_ 32 (1910): 120-122. ([PDF](http://www.esp.org/foundations/genetics/classical/thm-10a.pdf))
 
 ### Paper 2
 
-Sturtevant, A. H. "The Linear Arrangement of Six Sex-linked Factors in _Drosophila_, as Shown by Their Mode of Association." _Journal of Experimental Zoology_ 14 (1913): 43-59. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf))
+Sturtevant, A. H. "The Linear Arrangement of Six Sex-linked Factors in _Drosophila_, as Shown by Their Mode of Association." _Journal of Experimental Zoology_ 14 (1913): 43-59. ([PDF](http://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf))
 
 
 {{< tdclose >}}
@@ -75,7 +80,7 @@ Sturtevant, A. H. "The Linear Arrangement of Six Sex-linked Factors in _Drosophi
 
 Medical diseases: Sex reversal and the X
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Genetic_maps)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Genetic_maps" %}}
 
 
 {{< tdclose >}}
@@ -103,7 +108,7 @@ Brown, T. R., D. B. Lubahn, E. M. Wilson, D. R. Joseph, F. S. French, and C. J. 
 
 Dosage compensation I: X-inactivation in mammals
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Females_have)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Females_have" %}}
 
 
 {{< tdclose >}}
@@ -131,7 +136,7 @@ Nguyen, D. K., and C. M. Disteche. "[Dosage Compensation of the Active X Chromos
 
 Dosage compensation II: X-ceptions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Random_X-inactivation)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Random_X-inactivation" %}}
 
 
 {{< tdclose >}}
@@ -159,7 +164,7 @@ Huynh, K. D., and J. T. Lee. "[Inheritance of a Pre-inactivated Paternal X Chrom
 
 Dosage compensation III: Doubling and spreading
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Unlike_in_humans)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Unlike_in_humans" %}}
 
 
 {{< tdclose >}}
@@ -187,7 +192,7 @@ Kelley, R. L., V. H. Meller, P. R. Gordadze, G. Roman, R. L. Davis, and M. I. Ku
 
 Dosage compensation IV: Half and half in worms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Dosage_compensation)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Dosage_compensation" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ Csankovszki, G., P. McDonel, and B. J. Meyer. "[Recruitment and Spreading of the
 
 A highly conserved chromosome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_evolution_of)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#The_evolution_of" %}}
 
 
 {{< tdclose >}}
@@ -243,7 +248,7 @@ Emerson, J. J., H. Kaessmann, E. Betran, and M. Long. "[Extensive Gene Traffic o
 
 Gene content: A "sexy" X
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Do_X_chromosomes)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Do_X_chromosomes" %}}
 
 
 {{< tdclose >}}
@@ -271,7 +276,7 @@ Sturgill, D., Y. Zhang, M. Parisi, and B. Oliver. "[Demasculinization of X Chrom
 
 Divergence of the X and Y chromosomes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Around_300_million)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Around_300_million" %}}
 
 
 {{< tdclose >}}
@@ -299,7 +304,7 @@ Grutzner, F., W. Rens, E. Tsend-Ayush, N. El-Mogharbel, P. C. O'Brien, R. C. Jon
 
 Hybrids I: Haldane's rule
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Haldane's_Rule)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#Haldane's_Rule" %}}
 
 
 {{< tdclose >}}
@@ -327,7 +332,7 @@ Phadnis, N., and H. A. Orr. "[A Single Gene Causes Both Male Sterility and Segre
 
 Hybrids II: Are hybrids a step in the formulation of new species?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#One_of_the_classic)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#One_of_the_classic" %}}
 
 
 {{< tdclose >}}
@@ -355,7 +360,7 @@ Patterson, N., D. J. Richter, S. Gnerre, E. S. Lander, and D. Reich. "[Genetic E
 
 Course summary
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#During_this_last_class)
+{{% resource_link ad6a7d07-2666-c5fa-c85c-e9fefc25e8b0 "See the Lecture Summary" "#During_this_last_class" %}}
 
 
 {{< tdclose >}}
